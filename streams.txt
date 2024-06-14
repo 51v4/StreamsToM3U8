@@ -3,16 +3,6 @@
 ## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
 ## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 ##
-## Examples:
-## Twitch:
-## CDawgVA || CDVA.tt || Gaming
-## https://www.twitch.tv/cdawgva
-## Dailymotion:
-## C-News || CNews.dm || News
-## https://www.dailymotion.com/video/x3b68jn
-## YouTube:
-## Sky News || SkyNews.yt || News
-## https://www.youtube.com/watch?v=w9uJg68CV4g
 
 Reporter TV || ReporterTvLive.yt || News
 https://www.youtube.com/watch?v=HGOiuQUwqEw
@@ -24,7 +14,7 @@ Asianet News || AsianetNews.yt || News
 https://www.youtube.com/watch?v=Ko18SgceYX8
 
 Mathrubhumi News || MathrubhumiNews.yt || News
-https://www.youtube.com/watch?v=7ojcAWnkgfU
+https://www.youtube.com/watch?v=YGEgelAiUf0
 
 MediaOne TV || MediaOneTv.yt || News
 https://www.youtube.com/watch?v=GIT1lX0NdHo
@@ -32,28 +22,22 @@ https://www.youtube.com/watch?v=GIT1lX0NdHo
 Manorama News || ManoramaNews.yt || News
 https://www.youtube.com/watch?v=tgBTspqA5nY
 
-Kerala News || KeralaNews.yt || News
+Kairali News || KairaliNews.yt || News
 https://www.youtube.com/watch?v=wq0ecjkN3G8
 
 News18 Kerala || News18Kerala.yt || News
-https://www.youtube.com/watch?v=sAqyuckoLtA
-
-Kerala DD News || KeralaDdNews.yt || News
-https://www.youtube.com/watch?v=NfyfoMGtXmo
-
-The Fourth || TheFourth.yt || News
-https://www.youtube.com/watch?v=4mTU9du1xlw
+https://www.youtube.com/live/Oy0JGa3SIqg
 
 Janam TV || JanamTv.yt || News
-https://www.youtube.com/watch?v=AI2LexB2yUg
+https://www.youtube.com/watch?v=kcSH3VwhosQ
 
 Malayalam Song Live || MalayalamSongLive.yt || Music
 https://www.youtube.com/watch?v=GylmMseGR3E
 
-NASA Starbase Live || NASALive.yt || Documentaries
-https://www.youtube.com/watch?v=mhJRzQsLZGg
-
 Nat Geo Wild: Savage Kingdom || SavageKingdom.yt || Documentaries
 https://www.youtube.com/watch?v=BJ3Yv572V1A
+
+Disney XD || DisneyXd.yt || Kids
+https://www.youtube.com/watch?v=Fjp2TdlTTIU
 
 
