@@ -26,6 +26,3 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 
 #EXTINF:-1 tvg-id="MediaOneTv.yt" tvg-name="MediaOne TV" group-title="News", MediaOne TV
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
-
-#EXTINF:-1 tvg-id="MalayalamSongLive.yt" tvg-name="Malayalam Song Live" group-title="Music", Malayalam Song Live
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
